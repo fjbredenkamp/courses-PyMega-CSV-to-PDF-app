@@ -1,2 +1,2 @@
 # courses-PyMega-CSV-to-PDF-app
-This Python app creates a PDF files from csv data
+This Python app creates a PDF file from csv data
